@@ -1,0 +1,44 @@
+21:09:04,823 root INFO Adding everything from website to local repository
+21:09:04,832 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 13.66.133.71:8000
+21:09:19,355 urllib3.connectionpool DEBUG http://13.66.133.71:8000 "GET /jsony HTTP/1.1" 200 247
+21:09:42,448 root INFO Adding everything from website to local repository
+21:09:42,452 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 13.66.133.71:8000
+21:09:51,336 urllib3.connectionpool DEBUG http://13.66.133.71:8000 "GET /jsony HTTP/1.1" 200 247
+21:10:11,339 root INFO Adding everything from website to local repository
+21:10:11,343 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 13.66.133.71:8000
+21:10:15,435 urllib3.connectionpool DEBUG http://13.66.133.71:8000 "GET /jsony HTTP/1.1" 200 247
+21:10:35,437 root INFO Adding everything from website to local repository
+21:10:35,441 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 13.66.133.71:8000
+21:10:40,111 urllib3.connectionpool DEBUG http://13.66.133.71:8000 "GET /jsony HTTP/1.1" 200 247
+21:11:00,114 root INFO Adding everything from website to local repository
+21:11:00,118 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 13.66.133.71:8000
+21:11:03,259 urllib3.connectionpool DEBUG http://13.66.133.71:8000 "GET /jsony HTTP/1.1" 200 247
+21:11:23,262 root INFO Adding everything from website to local repository
+21:11:23,266 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 13.66.133.71:8000
+21:11:25,299 urllib3.connectionpool DEBUG http://13.66.133.71:8000 "GET /jsony HTTP/1.1" 200 247
+21:11:45,301 root INFO Adding everything from website to local repository
+21:11:45,305 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 13.66.133.71:8000
+21:11:51,183 urllib3.connectionpool DEBUG http://13.66.133.71:8000 "GET /jsony HTTP/1.1" 200 247
+21:12:11,185 root INFO Adding everything from website to local repository
+21:12:11,188 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 13.66.133.71:8000
+21:12:17,819 urllib3.connectionpool DEBUG http://13.66.133.71:8000 "GET /jsony HTTP/1.1" 200 247
+21:12:37,822 root INFO Adding everything from website to local repository
+21:12:37,825 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 13.66.133.71:8000
+21:12:42,718 urllib3.connectionpool DEBUG http://13.66.133.71:8000 "GET /jsony HTTP/1.1" 200 247
+21:13:02,720 root INFO Adding everything from website to local repository
+21:13:02,723 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 13.66.133.71:8000
+21:13:05,126 urllib3.connectionpool DEBUG http://13.66.133.71:8000 "GET /jsony HTTP/1.1" 200 247
+21:13:25,128 root INFO Adding everything from website to local repository
+21:13:25,132 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 13.66.133.71:8000
+21:14:07,176 root INFO displaying files that are pinned to local node from website
+21:14:07,176 root INFO QmbcjaF8qwGUPLeeHGf1MAPrptwfQmLFVSWRvyB4cZqQts
+QmRS8P967Q3HCZxowzS5WzWcnUm1JUcCG82JyMTVSsHVvo
+QmafwXpPfVGhYSGdPcY6xHQ7KXnKpUyL98jP9MdGqwSS7i
+QmTP9uqteRoyZqfdS7VyEzaoYPDeVSFrQ9BESrskjeqfiu
+
+21:14:09,928 root INFO displaying files that are pinned to local node
+21:14:09,928 root INFO QmbcjaF8qwGUPLeeHGf1MAPrptwfQmLFVSWRvyB4cZqQts
+QmRS8P967Q3HCZxowzS5WzWcnUm1JUcCG82JyMTVSsHVvo
+QmafwXpPfVGhYSGdPcY6xHQ7KXnKpUyL98jP9MdGqwSS7i
+QmTP9uqteRoyZqfdS7VyEzaoYPDeVSFrQ9BESrskjeqfiu
+

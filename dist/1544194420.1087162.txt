@@ -1,0 +1,10 @@
+20:23:58,989 root INFO displaying files that are pinned to local node from website
+20:23:58,989 root INFO 
+20:24:00,187 root INFO Adding everything from website to local repository
+20:24:00,190 urllib3.connectionpool DEBUG Starting new HTTP connection (1): 13.66.133.71:8000
+20:24:06,873 root INFO displaying files that are pinned to local node from website
+20:24:06,874 root INFO 
+20:24:06,875 root INFO displaying files that are pinned to local node from website
+20:24:06,875 root INFO 
+20:24:19,470 root INFO displaying files that are pinned to local node from website
+20:24:19,470 root INFO 
