@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<a href = "{{ url_for('start_daemon') }} " target="_blank">START DAEMON</a>
+<br>
+<a href = "{{ url_for('pins_from_database') }}" target="_blank">PIN FROM WEBSITE</a>
+<br>
+
+<form  action="{{ url_for('Pin') }}" method="post" enctype="multipart/form-data">
+     <label>ENTER HASH </label>
+    <input type="text" name="Hash" class="field-long" placeholder="Hash" />
+    <input type="submit" name="submit"  value="PIN">
+</form>
+<br>
+<a href = "{{ url_for('view_local_files') }}">VIEW LOCAL FILES</a>
+<br>
+<a href = "{{ url_for('view_dyanamic_files') }}">FILES PINNED DYANAMICALLY</a>
+</body>
+</html>
